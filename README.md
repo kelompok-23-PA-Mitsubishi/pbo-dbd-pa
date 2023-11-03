@@ -39,6 +39,7 @@ Program ini merupakan program yang dapat digunakan untuk mengatur konfigurasi ke
 ![WhatsApp Image 2023-11-03 at 23 30 10_ae030ea7](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/2760e3e6-4625-4162-99f5-e97154e3376a)
 
 ## Hirarki Kelas
+![image](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122031507/e247c0ec-267f-4f92-aff5-2e2fa21604cc)
 
 ## Screenshot Coding Program
 Terdapat 4 Package pada program ini, yaitu:
